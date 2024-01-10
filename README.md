@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 🙋‍♂️ Welcome <!--![Visitors](https://visitor-badge.glitch.me/badge?page_id=makemecker) -->
 
-I am a programmer who is interested in data analytics and machine learning.
+I am a programmer who is interested in data analytics, machine learning and deep learning.
 
 ## 🛠 Languages & Tools
 
