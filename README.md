@@ -43,7 +43,6 @@ Proficient:
 
 Familiar with: 
 ![C++](https://img.shields.io/badge/-C++-0f0f0f?style=flat-square&logo=c%2B%2B)
-![MySQL](https://img.shields.io/badge/-MySQL-0f0f0f?style=flat-square&logo=MySQL)
 
 ## 🤝 Connect with me
 
