@@ -24,6 +24,7 @@ I am a programmer who is interested in data analytics, machine learning and deep
 Proficient: 
 ![Python](https://img.shields.io/badge/-Python-0f0f0f?style=flat-square&logo=python)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-0f0f0f?style=flat-square&logo=pytorch)
+![Yolo](https://img.shields.io/badge/-Yolo-0f0f0f?style=flat-square&logo=yolo)
 ![nltk](https://img.shields.io/badge/-Nltk-0f0f0f?style=flat-square&logo=nltk)
 ![cv](https://img.shields.io/badge/-Cv-0f0f0f?style=flat-square&logo=cv)
 ![scikit-learn](https://img.shields.io/badge/-ScikitLearn-0f0f0f?style=flat-square&logo=scikit-learn)
