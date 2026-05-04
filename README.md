@@ -54,7 +54,6 @@ Familiar with:
 - [yolo2coco_segmentation](https://github.com/makemecker/yolo2coco_segmentation)
 - [Simpsons_prediction](https://github.com/makemecker/Simpsons_prediction)
 
----
 
 ### 🤖 Telegram Bots
 
