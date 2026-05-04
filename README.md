@@ -44,6 +44,25 @@ Proficient:
 Familiar with: 
 ![C++](https://img.shields.io/badge/-C++-0f0f0f?style=flat-square&logo=c%2B%2B)
 
+## 🚀 Projects
+
+### 👁 Computer Vision Projects
+
+- [video-event-detection](https://github.com/makemecker/video-event-detection)
+- [frame_extractor](https://github.com/makemecker/frame_extractor)
+- [image-duplicate-cleaner](https://github.com/makemecker/image-duplicate-cleaner)
+- [yolo2coco_segmentation](https://github.com/makemecker/yolo2coco_segmentation)
+- [Simpsons_prediction](https://github.com/makemecker/Simpsons_prediction)
+
+---
+
+### 🤖 Telegram Bots
+
+- [ChinaXpress](https://github.com/makemecker/ChinaXpress)
+- [TelegramShop](https://github.com/makemecker/TelegramShop)
+- [FlowergrammerBot](https://github.com/makemecker/FlowergrammerBot)
+- [GANam_style](https://github.com/makemecker/GANam_style)
+
 ## 🤝 Connect with me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0f0f0f?style=for-the-badge&logo=telegram)](https://t.me/realname11)
