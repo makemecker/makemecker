@@ -48,15 +48,10 @@ Familiar with:
 
 ### 👁 Computer Vision Projects
 
-- [video-event-detection](https://github.com/makemecker/video-event-detection)
 - [frame_extractor](https://github.com/makemecker/frame_extractor)
 - [image-duplicate-cleaner](https://github.com/makemecker/image-duplicate-cleaner)
 - [yolo2coco_segmentation](https://github.com/makemecker/yolo2coco_segmentation)
 - [Simpsons_prediction](https://github.com/makemecker/Simpsons_prediction)
-
-### 🧠 AI Audio & Speech
-
-- [secure-transcribe](https://github.com/makemecker/secure-transcribe)
 
 ### 🤖 Telegram Bots
 
@@ -67,7 +62,6 @@ Familiar with:
 
 ## 🤝 Connect with me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-0f0f0f?style=for-the-badge&logo=telegram)](https://t.me/realname11)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-0f0f0f?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/romansobolev)
 
 ## 📈 GitHub Stats
